@@ -32,5 +32,11 @@ button {
     border: 3px solid blue;
     border-radius: 10px;
     color: aliceblue;
-    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
+
+}
+button:hover{
+    background-color: rgb(15, 133, 49);
+    color:blue;
+
 }
