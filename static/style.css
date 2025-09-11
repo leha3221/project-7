@@ -31,12 +31,21 @@ button {
     padding: 5px;
     border: 3px solid blue;
     border-radius: 10px;
+    background-color: black;
     color: aliceblue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
 
 }
 button:hover{
-    background-color: rgb(15, 133, 49);
+    background-color: rgb(59, 154, 65);
     color:blue;
 
+}
+
+#ContactForm{
+    border: 3px solid;
+    border-radius: 10px;
+    background-color: aliceblue;
+    padding: 10px;
+    max-width: 250px; 
 }
