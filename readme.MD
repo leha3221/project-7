@@ -5,4 +5,4 @@
 ОПИСАНИЕ ПРОЕКТА 
 
 ## Ссылки
-https://github.com/leha3221/project-7 12
+https://leha3221.github.io/project-7/src/contacts.html
